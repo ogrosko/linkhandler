@@ -16,10 +16,7 @@ $EM_CONF[$_EXTKEY] = array(
         'depends' => array(
             'typo3' => '7.6.1-7.9.99',
         ),
-        'conflicts' => array(
-            'ch_rterecords' => '',
-            'tinymce_rte' => '',
-        ),
+        'conflicts' => array(),
         'suggests' => array(),
     ),
 );
